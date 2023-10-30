@@ -1,0 +1,4 @@
+"Denominazione,""Località"",""Provincia"",""Comune"",""Quota (m s.l.m.)"",""Sensore"",""Bacino idrografico"",""Corso d'acqua"",""Zero idrometrico (m s.l.m.)"",""Longitudine est (wgs84 gradi)"",""Latitudine nord (wgs84 gradi)"",""Data inizio"",""Data fine"""
+"PONT SOANA,""PONTE DI VIA ROMA"",""TO"",""PONT-CANAVESE"",""453"",""Idrometro"",""ORCO"",""SOANA"",""441.4"",""7.60167"",""45.42167"",""2002-01-01"",""2022-12-31"""
+"SAN BENIGNO ORCO,""PONTE S.P. 40"",""TO"",""SAN BENIGNO CANAVESE"",""219"",""Idrometro"",""ORCO"",""ORCO"",""209.99"",""7.80611"",""45.24667"",""2002-01-01"",""2022-12-31"""
+"SPINETO ORCO,""SPINETO"",""TO"",""CASTELLAMONTE"",""362"",""Idrometro"",""ORCO"",""ORCO"",""358.6"",""7.67417"",""45.38667"",""2010-01-01"",""2022-12-31"""
