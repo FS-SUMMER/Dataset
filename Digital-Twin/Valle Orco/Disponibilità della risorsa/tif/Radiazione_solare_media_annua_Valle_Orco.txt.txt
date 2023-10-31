@@ -1,0 +1,3 @@
+data extrapolated from the PVGIS-SARAH2 database.
+This value is the monthly sum of the solar radiation energy that hits one square meter of a horizontal plane, measured in kWh/m2.
+(https://joint-research-centre.ec.europa.eu/photovoltaic-geographical-information-system-pvgis/getting-started-pvgis/pvgis-user-manual_en) 
