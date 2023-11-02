@@ -1,0 +1,20 @@
+1
+AGNEL
+1 1  1
+3  1
+inflow_files\Agnel_inflow.dat
+2
+SERRù
+2 1  1
+3  2
+inflow_files\Serrù_inflow.dat
+3
+Condotte
+3 1  1
+3  3
+inflow_files\Condotte_inflow.dat
+4
+Ceresole
+4 1  1
+3  4
+inflow_files\Ceresole_inflow.dat
